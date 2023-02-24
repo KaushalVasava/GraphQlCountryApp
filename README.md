@@ -1,5 +1,5 @@
 # GraphQlCountryApp
-It is a using jetapck compose, GraphQL and clean architecture.
+It is simple country info App using jetapck compose, GraphQL and clean architecture.
 
 #What is GraphQL?
 
