@@ -1,4 +1,4 @@
-package com.plcoding.graphqlcountriesapp.presentation
+package com.lahsuak.apps.graphqlcountry.presentation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -17,8 +17,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.plcoding.graphqlcountriesapp.domain.DetailedCountry
-import com.plcoding.graphqlcountriesapp.domain.SimpleCountry
+import com.lahsuak.apps.graphqlcountry.domain.DetailedCountry
+import com.lahsuak.apps.graphqlcountry.domain.SimpleCountry
 
 @Composable
 fun CountriesScreen(

@@ -1,4 +1,4 @@
-package com.plcoding.graphqlcountriesapp.ui.theme
+package com.lahsuak.apps.graphqlcountry.theme
 
 import androidx.compose.ui.graphics.Color
 

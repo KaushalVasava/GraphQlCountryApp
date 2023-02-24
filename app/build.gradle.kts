@@ -8,16 +8,16 @@ plugins {
 
 apollo {
     service("service") {
-        packageName.set("com.plcoding")
+        packageName.set("com.lahsuak")
     }
 }
 
 android {
-    namespace = "com.plcoding.graphqlprep"
+    namespace = "com.lahsuak.apps.graphqlcountry"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.plcoding.graphqlcountriesapp"
+        applicationId = "com.lahsuak.apps.graphqlcountry"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

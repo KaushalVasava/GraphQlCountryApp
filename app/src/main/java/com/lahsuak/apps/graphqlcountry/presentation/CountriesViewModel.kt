@@ -1,11 +1,11 @@
-package com.plcoding.graphqlcountriesapp.presentation
+package com.lahsuak.apps.graphqlcountry.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.plcoding.graphqlcountriesapp.domain.DetailedCountry
-import com.plcoding.graphqlcountriesapp.domain.GetCountriesUseCase
-import com.plcoding.graphqlcountriesapp.domain.GetCountryUseCase
-import com.plcoding.graphqlcountriesapp.domain.SimpleCountry
+import com.lahsuak.apps.graphqlcountry.domain.DetailedCountry
+import com.lahsuak.apps.graphqlcountry.domain.GetCountriesUseCase
+import com.lahsuak.apps.graphqlcountry.domain.GetCountryUseCase
+import com.lahsuak.apps.graphqlcountry.domain.SimpleCountry
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow

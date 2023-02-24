@@ -1,9 +1,9 @@
-package com.plcoding.graphqlcountriesapp.data
+package com.lahsuak.apps.graphqlcountry.data
 
-import com.plcoding.CountriesQuery
-import com.plcoding.CountryQuery
-import com.plcoding.graphqlcountriesapp.domain.DetailedCountry
-import com.plcoding.graphqlcountriesapp.domain.SimpleCountry
+import com.lahsuak.CountriesQuery
+import com.lahsuak.CountryQuery
+import com.lahsuak.apps.graphqlcountry.domain.DetailedCountry
+import com.lahsuak.apps.graphqlcountry.domain.SimpleCountry
 
 fun CountryQuery.Country.toDetailedCountry(): DetailedCountry {
     return DetailedCountry(

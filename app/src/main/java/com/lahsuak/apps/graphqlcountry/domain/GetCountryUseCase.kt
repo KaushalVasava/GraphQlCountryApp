@@ -1,4 +1,4 @@
-package com.plcoding.graphqlcountriesapp.domain
+package com.lahsuak.apps.graphqlcountry.domain
 
 class GetCountryUseCase(
     private val countryClient: CountryClient

@@ -1,10 +1,10 @@
-package com.plcoding.graphqlcountriesapp.di
+package com.lahsuak.apps.graphqlcountry.di
 
 import com.apollographql.apollo3.ApolloClient
-import com.plcoding.graphqlcountriesapp.data.ApolloCountryClient
-import com.plcoding.graphqlcountriesapp.domain.CountryClient
-import com.plcoding.graphqlcountriesapp.domain.GetCountriesUseCase
-import com.plcoding.graphqlcountriesapp.domain.GetCountryUseCase
+import com.lahsuak.apps.graphqlcountry.data.ApolloCountryClient
+import com.lahsuak.apps.graphqlcountry.domain.CountryClient
+import com.lahsuak.apps.graphqlcountry.domain.GetCountriesUseCase
+import com.lahsuak.apps.graphqlcountry.domain.GetCountryUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
