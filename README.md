@@ -1,6 +1,12 @@
 # GraphQlCountryApp
 It is simple country info App using jetapck compose, GraphQL and clean architecture.
 
+You will learn  following topics in this app, 
+- Jetpack compose UI developement
+- Clean architecture
+- GraphQL setup and use
+- Dependency Injection using Hilt
+
 # What is GraphQL?
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. 
