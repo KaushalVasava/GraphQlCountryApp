@@ -29,7 +29,7 @@ Information from https://graphql.org/
 https://www.javatpoint.com/graphql-advantages-and-disadvantages
 
 
-Follow for more info related to App developement and ask any questions regarding Android App developement on twitter or linkedIn.
+Follow for more info related to App development and ask any questions regarding Android App developemnt on twitter or linkedIn.
 
 Thank you,
 Kaushal Vasava.
